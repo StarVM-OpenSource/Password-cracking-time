@@ -1,6 +1,6 @@
 @import url('css2.css');
 /* 七牛云CDN */
-@import url('//cdn.staticfile.org/bootstrap/5.3.1/css/bootstrap.min.css');
+@import url('bootstrap.min.css');
 @import url('all.min.css');
 
 :root {
