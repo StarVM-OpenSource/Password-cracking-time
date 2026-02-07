@@ -10,7 +10,7 @@ class NavBar extends HTMLElement {
                 <!-- 网站标题 -->
                 <div class="container">
                     <a class="navbar-brand logo-font self-main-color" href="/">
-                        <img src="/resources/NFS11-256.png" class="site-icon" alt="Site Icon">
+                        <img src="./img/NFS11-256.png" class="site-icon" alt="Site Icon">
                         Eterance 的百宝箱
                     </a>
         
